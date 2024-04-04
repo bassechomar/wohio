@@ -1,4 +1,5 @@
-
+## config/packages/security.yaml
+/config/packages/security.yaml
 ###> symfony/framework-bundle ###
 /.env
 /.env.local
